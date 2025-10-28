@@ -2,3 +2,4 @@ git init // for initializing repository
 git add <file>
 git commit -m "your commit message"
 hallo ich heisse fabs
+jetzt habe ich es laura gezeigt
